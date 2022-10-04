@@ -1,0 +1,25 @@
+
+    body {
+     background-color: rgb(166, 185, 243);}
+     hr{
+     border-style: dotted none none;
+     border-width: 6px;
+     height: 0px;
+     border-color: rgb(36, 8, 247);
+     width: 20%;
+     background-color: rgb(166, 185, 243);
+     }
+     h1
+     {
+        color: red;
+     }
+     h3
+     {
+        color: red;
+     }
+     img{border-radius: 100%;}
+     img:hover{background-color: gold;}
+     #rakesh{font-size: 70px ; color: rgb(9, 9, 9); box-shadow: 20px;}
+     #rakesh:hover{background-color: gold;}
+     .edu:hover{background-color: gold;}
+   
