@@ -15,11 +15,11 @@
      }
      h3
      {
-        color: red;
+        color: rgb(170, 6, 6);
      }
      img{border-radius: 100%;}
      img:hover{background-color: gold;}
-     #rakesh{font-size: 350% ; color: rgb(9, 9, 9); box-shadow: 20px;}
+     #rakesh{font-size: 350% ; color: rgb(9, 9, 9);}
      #rakesh:hover{background-color: gold;}
      .edu:hover{background-color: gold;}
    
